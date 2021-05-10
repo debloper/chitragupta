@@ -1,0 +1,16 @@
+{
+  "name": "chitragupta",
+  "version": "0.0.1",
+  "description": "Booster pack for your console.log",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:debloper/chitragupta.git"
+  },
+  "author": "Soumya Deb <debloper@gmail.com> (https://debs.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/debloper/chitragupta/issues"
+  },
+  "homepage": "https://github.com/debloper/chitragupta"
+}
